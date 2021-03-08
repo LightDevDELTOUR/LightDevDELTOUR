@@ -17,6 +17,11 @@
 <br>
 <br>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LightDevDELTOUR&repo=Deep_Ocean | Bot Discord&theme=dark)](https://github.com/TheoBIET/Yumeko)
+
+<br>
+<br>
+
 ### Mes Statistiques :
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LightDevDELTOUR&theme=dark&show_icons=true)
