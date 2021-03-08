@@ -25,6 +25,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LightDevDELTOUR&repo=LightDevDELTOUR&theme=dark)](https://github.com/LightDevDELTOUR/LightDevDELTOUR)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LightDevDELTOUR&repo=SystemeOnglets_JavaScript&theme=dark)](https://github.com/LightDevDELTOUR/LightDevDELTOUR)
+
 <br>
 <br>
 
