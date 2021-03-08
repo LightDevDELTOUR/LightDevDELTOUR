@@ -17,7 +17,7 @@
 <br>
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LightDevDELTOUR&repo=Deep_Ocean | Bot Discord&theme=dark)](https://github.com/TheoBIET/Yumeko)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LightDevDELTOUR&repo=Deep_Ocean-Bot-Discord&theme=dark)](https://github.com/LightDevDELTOUR/Deep_Ocean-Bot-Discord)
 
 <br>
 <br>
