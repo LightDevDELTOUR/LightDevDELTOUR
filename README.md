@@ -17,7 +17,13 @@
 <br>
 <br>
 
+### Mes Repositories préférés :
+
+<br>
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LightDevDELTOUR&repo=Deep_Ocean-Bot-Discord&theme=dark)](https://github.com/LightDevDELTOUR/Deep_Ocean-Bot-Discord)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LightDevDELTOUR&repo=LightDevDELTOUR&theme=dark)](https://github.com/LightDevDELTOUR/LightDevDELTOUR)
 
 <br>
 <br>
