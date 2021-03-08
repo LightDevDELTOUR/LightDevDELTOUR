@@ -22,4 +22,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LightDevDELTOUR&theme=dark&show_icons=true)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LightDevDELTOUR&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LightDevDELTOUR&theme=dark)]
