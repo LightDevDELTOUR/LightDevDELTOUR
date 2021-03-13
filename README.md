@@ -2,6 +2,11 @@
 
 ### Je suis développeur autodidacte.
   - 🌱 Je suis en train d'apprendre plusieurs languages afin de me perfectionner.
+
+### Mon Twitter :
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/LightDev_Off?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/LightDev_Off)
+
 ### Languages and Outils :
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
