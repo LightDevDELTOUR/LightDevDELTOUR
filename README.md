@@ -26,8 +26,6 @@
 
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LightDevDELTOUR&repo=Deep_Ocean-Bot-Discord&theme=dark)](https://github.com/LightDevDELTOUR/Deep_Ocean-Bot-Discord)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LightDevDELTOUR&repo=LightDevDELTOUR&theme=dark)](https://github.com/LightDevDELTOUR/LightDevDELTOUR)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LightDevDELTOUR&repo=SystemeOnglets_JavaScript&theme=dark)](https://github.com/LightDevDELTOUR/LightDevDELTOUR)
